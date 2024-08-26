@@ -1,0 +1,73 @@
+nav a {
+    margin-left: 15px;
+    font-size: larger;
+  }
+
+.first  {
+    display:inline
+  }
+.first :hover {
+  background-color: rgb(154, 63, 239)
+}
+
+  h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  p{
+    font-family: cursive;
+  }
+
+  label {
+    font-family: cursive;
+  }
+
+  h2 {
+    font-family: cursive;
+  }
+
+  h3 {
+    font-family: cursive;
+  }
+
+  .second {
+    font-family: cursive;
+  }
+
+  #Home {
+    margin-left: 5%;
+  }
+
+  #Form {
+    margin-left: 5%;
+  }
+
+  #Courses {
+    margin-left: 5%;
+  }
+
+  #Video {
+    margin-left: 5%;
+  }
+
+  #Checkpoint {
+    margin-left: 5%;
+  }
+
+  #Contact {
+    margin-left: 5%;
+  }
+
+  form {
+    margin-left: 5%; 
+  }
+  .imgHeader{
+    background-image: url("C:\\Users\\Hedil\\Pictures\\wallpapers\\4a5271d9b20061bcb386f75e53092fca.png");
+    background-repeat: none;
+    background-size: cover;
+   
+    height: 450px;
+    text-align: center;
+    align-items: center;
+    padding-top: 3%;
+}
